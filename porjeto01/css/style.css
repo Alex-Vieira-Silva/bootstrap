@@ -13,6 +13,11 @@ body{
     padding-top: 10PX;
 }
 .parceiros{
-    background-color: #2d5f63;
+    background-color: #158158;
+    color: white;
+}
+.bg-footer{
+    background-color: black;
+    padding-top: 50px;
     color: white;
 }
